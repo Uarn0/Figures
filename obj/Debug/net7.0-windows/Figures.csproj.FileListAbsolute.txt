@@ -1,0 +1,16 @@
+C:\vsprog\lessons2\Figures\bin\Debug\net7.0-windows\Figures.exe
+C:\vsprog\lessons2\Figures\bin\Debug\net7.0-windows\Figures.deps.json
+C:\vsprog\lessons2\Figures\bin\Debug\net7.0-windows\Figures.runtimeconfig.json
+C:\vsprog\lessons2\Figures\bin\Debug\net7.0-windows\Figures.dll
+C:\vsprog\lessons2\Figures\bin\Debug\net7.0-windows\Figures.pdb
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.Form1.resources
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.csproj.GenerateResource.cache
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.AssemblyInfoInputs.cache
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.AssemblyInfo.cs
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.csproj.CoreCompileInputs.cache
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.dll
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\refint\Figures.dll
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.pdb
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\Figures.genruntimeconfig.cache
+C:\vsprog\lessons2\Figures\obj\Debug\net7.0-windows\ref\Figures.dll
